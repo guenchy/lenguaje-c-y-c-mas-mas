@@ -1,0 +1,8 @@
+Antonio	Pasta
+Juan	Azucar
+Juanita	Aceite
+Samuel	Arroz
+Ines	Queso
+Ana	Pasta
+Maria	Azucar
+Andres	Aceite
